@@ -1,6 +1,17 @@
-# tic_tac_toe
+# TicTacToe
+TicTacToe is a simple and interactive game application designed using Flutter. The app provides a user-friendly interface to play the classic Tic Tac Toe game. It features a minimalistic design and smooth user experience with real-time updates and local data persistence.
 
-A new Flutter project.
+# Features
+  - User Interface: Clean and intuitive design for an engaging gaming experience.
+  - Game Logic: Implements the classic Tic Tac Toe game rules with real-time updates.
+  - Score Tracking: Keeps track of wins for both players and displays the current score.
+  - Game Reset: Option to reset the game board and start a new game at any time.
+
+# Tools and Technologies
+  - Flutter: Framework used for building the cross-platform mobile application.
+  - Dart: Programming language for implementing the app logic.
+  - Android Studio: IDE used for development and debugging.
+
 
 ## Getting Started
 
